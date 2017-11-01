@@ -76,6 +76,12 @@
       <DependentUpon>Form1.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="frmMinor.Designer.vb">
+      <DependentUpon>frmMinor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMinor.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmSegundo.Designer.vb">
       <DependentUpon>frmSegundo.vb</DependentUpon>
     </Compile>
