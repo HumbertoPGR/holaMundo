@@ -6,3 +6,12 @@ D:\Proyectos\demo\holaMundo\gitApp\gitApp\obj\Debug\gitApp.vbproj.GenerateResour
 D:\Proyectos\demo\holaMundo\gitApp\gitApp\obj\Debug\gitApp.exe
 D:\Proyectos\demo\holaMundo\gitApp\gitApp\obj\Debug\gitApp.xml
 D:\Proyectos\demo\holaMundo\gitApp\gitApp\obj\Debug\gitApp.pdb
+D:\Compilados\Git\holaMundo\gitApp\gitApp\obj\Debug\gitApp.exe
+D:\Compilados\Git\holaMundo\gitApp\gitApp\obj\Debug\gitApp.xml
+D:\Compilados\Git\holaMundo\gitApp\gitApp\obj\Debug\gitApp.pdb
+D:\Compilados\Git\holaMundo\gitApp\gitApp\bin\Debug\gitApp.exe
+D:\Compilados\Git\holaMundo\gitApp\gitApp\bin\Debug\gitApp.pdb
+D:\Compilados\Git\holaMundo\gitApp\gitApp\bin\Debug\gitApp.xml
+D:\Compilados\Git\holaMundo\gitApp\gitApp\obj\Debug\gitApp.frmAndres.resources
+D:\Compilados\Git\holaMundo\gitApp\gitApp\obj\Debug\gitApp.Resources.resources
+D:\Compilados\Git\holaMundo\gitApp\gitApp\obj\Debug\gitApp.vbproj.GenerateResource.Cache

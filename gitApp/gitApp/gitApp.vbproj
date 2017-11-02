@@ -76,6 +76,12 @@
       <DependentUpon>Form1.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="frmAndres.Designer.vb">
+      <DependentUpon>frmAndres.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAndres.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmMinor.Designer.vb">
       <DependentUpon>frmMinor.vb</DependentUpon>
     </Compile>
@@ -105,6 +111,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="frmAndres.resx">
+      <DependentUpon>frmAndres.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
