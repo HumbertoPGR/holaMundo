@@ -15,3 +15,4 @@ D:\Compilados\Git\holaMundo\gitApp\gitApp\bin\Debug\gitApp.xml
 D:\Compilados\Git\holaMundo\gitApp\gitApp\obj\Debug\gitApp.frmAndres.resources
 D:\Compilados\Git\holaMundo\gitApp\gitApp\obj\Debug\gitApp.Resources.resources
 D:\Compilados\Git\holaMundo\gitApp\gitApp\obj\Debug\gitApp.vbproj.GenerateResource.Cache
+D:\Proyectos\demo\holaMundo\gitApp\gitApp\obj\Debug\gitApp.frmAndres.resources
