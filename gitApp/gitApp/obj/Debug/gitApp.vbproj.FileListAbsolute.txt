@@ -1,0 +1,8 @@
+D:\Proyectos\demo\holaMundo\gitApp\gitApp\bin\Debug\gitApp.exe
+D:\Proyectos\demo\holaMundo\gitApp\gitApp\bin\Debug\gitApp.pdb
+D:\Proyectos\demo\holaMundo\gitApp\gitApp\bin\Debug\gitApp.xml
+D:\Proyectos\demo\holaMundo\gitApp\gitApp\obj\Debug\gitApp.Resources.resources
+D:\Proyectos\demo\holaMundo\gitApp\gitApp\obj\Debug\gitApp.vbproj.GenerateResource.Cache
+D:\Proyectos\demo\holaMundo\gitApp\gitApp\obj\Debug\gitApp.exe
+D:\Proyectos\demo\holaMundo\gitApp\gitApp\obj\Debug\gitApp.xml
+D:\Proyectos\demo\holaMundo\gitApp\gitApp\obj\Debug\gitApp.pdb
