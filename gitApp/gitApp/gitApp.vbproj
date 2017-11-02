@@ -76,6 +76,12 @@
       <DependentUpon>Form1.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="formularioHumberto224.Designer.vb">
+      <DependentUpon>formularioHumberto224.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formularioHumberto224.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmAndres.Designer.vb">
       <DependentUpon>frmAndres.vb</DependentUpon>
     </Compile>
@@ -111,6 +117,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="formularioHumberto224.resx">
+      <DependentUpon>formularioHumberto224.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmAndres.resx">
       <DependentUpon>frmAndres.vb</DependentUpon>
     </EmbeddedResource>
