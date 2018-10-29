@@ -1,2 +1,3 @@
-# holaMundo
-Esto es una prueba de configuracion del proyecto
+# Hello word
+
+Pruebas de GitHub!
